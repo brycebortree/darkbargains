@@ -22,7 +22,8 @@
 }
 
 p .asides {
-  font-size: 24px;
+  font-size: 20px;
+ /* not smaller yet*/
 }
 
 h1 {
