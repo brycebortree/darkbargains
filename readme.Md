@@ -10,6 +10,7 @@ input name
 input children's names (Prompt: what were their names? >"user_input")
 getFood>random (based on hope?)
 addFood
+input into database
 
 words:
 "Your world is reduced to small things: eat, sleep, pass time"
