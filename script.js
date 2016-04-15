@@ -32,11 +32,11 @@
     if(i === storyline.length) {i = 0};
     });
 
-  // div.onkeypress=function(event){
-  //   var words = document.getElementById('words');
-  //   words.innerHTML=storyline[i++];
-  //   if(i === storyline.length) {i = 0};
-  //   });
+  var onkeydown=function(event){
+    var words = document.getElementById('words');
+    words.innerHTML=storyline[i++];
+    if(i === storyline.length) {i = 0};
+    };
 
 
 

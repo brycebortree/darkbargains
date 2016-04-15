@@ -11,6 +11,7 @@ input children's names (Prompt: what were their names? >"user_input")
 getFood>random (based on hope?)
 addFood
 input into database
+choose two different paths: you will be fine here/you move to her mountain
 
 words:
 "Your world is reduced to small things: eat, sleep, pass time"
