@@ -16,3 +16,8 @@ choose two different paths: you will be fine here/you move to her mountain
 
 words:
 "Your world is reduced to small things: eat, sleep, pass time"
+
+
+Per Todd: 
+changes to objects with arrays
+alternately: database with AJAX calls
